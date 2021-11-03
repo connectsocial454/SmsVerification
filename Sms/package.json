@@ -39,7 +39,7 @@
     "secure-pin": "^1.0.14",
     "stream": "0.0.2",
     "uuidv4": "^4.0.0",
-    "validator": "^9.4.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.3",
