@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.16.3",
-    "google-ad-manager-api": "^1.0.0",
+    "google-ad-manager-api": "^1.0.2",
     "google-auth-library": "^4.0.0",
     "gravatar": "^1.6.0",
     "gridfs-stream": "^1.1.1",
