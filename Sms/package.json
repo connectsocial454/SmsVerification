@@ -22,7 +22,7 @@
     "connect-multiparty": "^2.1.1",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "google-ad-manager-api": "^1.0.0",
     "google-auth-library": "^4.0.0",
     "gravatar": "^1.6.0",
